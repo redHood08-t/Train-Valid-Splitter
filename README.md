@@ -29,7 +29,7 @@ To split your dataset into `train` and `val` directories, use the following comm
 
 ```bash
 python train_valid_split.py -id <input_directory> -od <output_directory> -vr <validation_ratio>
-
+```
 
 ## Features
 - **Train/Validation Split**: Automatically splits your dataset into `train` and `val` sets based on the specified ratio.
