@@ -1,3 +1,15 @@
+# Train-Valid-Splitter
+
+## Description
+This script helps split a dataset into training and validation sets. It takes a directory of images in YOLO format along with their corresponding text files and splits them into `train` and `val` directories based on a specified validation ratio.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 To get started, follow these steps:
 
